@@ -53,6 +53,9 @@ The Streamlit app allows users to:
 
 ---
 
+##  Live Demo
+http://13.49.44.149:8501
+
 ## 📂 Project Structure
 ```bash
 Brain_Tumor_App/
@@ -61,5 +64,6 @@ Brain_Tumor_App/
 │── class_names.json                      # Class labels
 │── requirements.txt
 │── README.md
+
 
 
